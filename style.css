@@ -1,0 +1,1245 @@
+.home {
+  padding: 0;
+  margin: 0;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 815px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(Image.png);
+  background-image: url(./img/Overlay.png);
+  background-repeat: round;
+}
+
+.bar {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.travelsy {
+  position: absolute;
+  width: 74px;
+  height: 23px;
+  left: 40px;
+  top: 40px;
+
+  font-family: Samsung Sharp Sans;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+}
+
+.camp-location {
+  position: absolute;
+  width: 120px;
+  height: 15px;
+  left: 545px;
+  top: 44px;
+
+  font-family: Sofadi One;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.actvities {
+  position: absolute;
+  width: 55px;
+  height: 15px;
+  left: 689px;
+  top: 44px;
+
+  font-family: Sofadi One;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.equipment {
+  position: absolute;
+  width: 66px;
+  height: 15px;
+  left: 768px;
+  top: 44px;
+
+  font-family: Sofadi One;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.blogs {
+  position: absolute;
+  width: 35px;
+  height: 15px;
+  left: 862px;
+  top: 44px;
+
+  font-family: Sofadi One;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.reservations-btn {
+  position: absolute;
+  width: 150px;
+  height: 40px;
+  left: 999px;
+  top: 30px;
+
+  background: #ff5200;
+  border-radius: 20px;
+}
+
+.reservations h4 {
+  position: absolute;
+  height: 14px;
+  left: 68.5%;
+  top: 3.5%;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #ffffff;
+}
+
+.shape {
+  position: absolute;
+  left: 67%;
+  right: 87.56%;
+  top: 6.2%;
+
+  background: #ffffff;
+}
+
+.shape-copy {
+  width: 5px;
+  height: 5px;
+
+  position: absolute;
+  left: 77%;
+  top: 5.7%;
+}
+
+.icon-user {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  left: 80%;
+  top: 4%;
+}
+
+.icon-onli {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 82%;
+  top: 4%;
+
+  background: #ff0000;
+  border-radius: 20px;
+  border: 1px solid #ffffff;
+}
+
+.profil-info {
+  position: absolute;
+  width: 140px;
+  height: 159px;
+  left: 76.6%;
+  top: 78px;
+}
+
+.profile {
+  position: absolute;
+  height: 15px;
+  left: 77.5%;
+  top: 15%;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 15px;
+
+  color: #3b3b3b;
+
+  border-bottom: solid black 2px;
+}
+
+.favorites {
+  position: absolute;
+  height: 15px;
+  left: 77.5%;
+  top: 19%;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 15px;
+
+  color: #3b3b3b;
+
+  border-bottom: solid black 2px;
+}
+
+.notifications {
+  position: absolute;
+  height: 15px;
+  left: 77.5%;
+  top: 23%;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 15px;
+
+  color: #3b3b3b;
+
+  border-bottom: solid black 2px;
+}
+
+.my-Reservations {
+  position: absolute;
+  height: 15px;
+  left: 77.5%;
+  top: 27%;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 15px;
+
+  color: #3b3b3b;
+  border-bottom: solid black 2px;
+}
+
+.welc-trevels {
+  position: absolute;
+  width: 200px;
+  height: 20px;
+  left: 20%;
+  top: 30%;
+
+  font-family: Sofia Pro;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 20px;
+
+  color: #fafafa;
+}
+
+.screen-inscription {
+  position: absolute;
+  width: 655px;
+  height: 190px;
+  left: 20%;
+  top: 40%;
+
+  font-family: Abel;
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 95px;
+
+  color: #ffffff;
+}
+
+.campig-location {
+  position: absolute;
+  width: 200px;
+  height: 20px;
+  left: 20%;
+  top: 80%;
+
+  font-family: Sofia Pro;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 20px;
+
+  color: #ffffff;
+}
+
+.play-btn {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 34%;
+  top: 78%;
+
+  border: black 1px solid;
+  border-radius: 100px;
+
+  background-repeat: no-repeat;
+}
+
+.play-img {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 35.2%;
+  top: 80%;
+}
+
+.play-border {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 33%;
+  top: 75.8%;
+  border-radius: 100px;
+  border: 1px solid #d8d8d8;
+}
+
+.rectangle {
+  position: absolute;
+  width: 1274px;
+  height: 120px;
+  left: 0px;
+  top: 696px;
+
+  background: #ffffff;
+  border-radius: 0px 20px 0px 0px;
+}
+
+.rectangle-orange {
+  position: absolute;
+  width: 262px;
+  height: 119px;
+  left: 1012px;
+  top: 696px;
+
+  background: #ff5200;
+  border-radius: 0px 20px 0px 0px;
+}
+
+.camping-sites {
+  position: absolute;
+  width: 143px;
+  height: 19px;
+  left: 165px;
+  top: 763px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: black;
+}
+
+.nat-parks {
+  position: absolute;
+  width: 144px;
+  height: 19px;
+  left: 447px;
+  top: 763px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.gate-aways {
+  position: absolute;
+  width: 198px;
+  height: 19px;
+  left: 730px;
+  top: 763px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.experience {
+  position: absolute;
+  height: 21px;
+  left: 1035px;
+  top: 763px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+
+.path-copy {
+  position: absolute;
+  left: 1230px;
+  top: 763px;
+}
+
+.enclosure {
+  position: absolute;
+  width: 356px;
+  height: 110px;
+  left: 165px;
+  top: 896px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 55px;
+  text-align: left;
+
+  color: #000000;
+}
+
+.amun-text {
+  position: absolute;
+  width: 356px;
+  height: 120px;
+  left: 542px;
+  top: 896px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  color: #4a4a4a;
+}
+
+.group4-img {
+  position: absolute;
+  width: 733px;
+  height: 475px;
+  left: 165px;
+  top: 1056px;
+}
+
+.copy13-img {
+  position: absolute;
+  width: 733px;
+  height: 475px;
+  left: 918px;
+  top: 1056px;
+}
+
+.about-us {
+  position: absolute;
+  width: 71px;
+  height: 16px;
+  left: 165px;
+  top: 1671px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+.moutain-vacations {
+  position: absolute;
+  width: 733px;
+  height: 190px;
+  left: 165px;
+  top: 1714px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 95px;
+  text-align: left;
+
+  color: #000000;
+}
+
+.text-left {
+  position: absolute;
+  width: 450px;
+  height: 76px;
+  left: 165px;
+  top: 1964px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #4a4a4a;
+}
+
+.text-right {
+  position: absolute;
+  width: 450px;
+  height: 95px;
+  left: 729px;
+  top: 1964px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #4a4a4a;
+}
+
+.rectangle-img {
+  position: absolute;
+  width: 545px;
+  height: 750px;
+  left: 165px;
+  top: 2119px;
+}
+
+.rectangle-img2 {
+  position: absolute;
+  width: 545px;
+  height: 450px;
+  left: 729px;
+  top: 2119px;
+}
+
+.read-more {
+  position: absolute;
+  width: 229px;
+  height: 60px;
+  left: 482px;
+  top: 2809px;
+
+  background: #ffffff;
+}
+
+.read-more-button {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: orange;
+  position: absolute;
+  width: 229px;
+  height: 60px;
+  background-color: white;
+  border: none;
+}
+
+.path {
+  position: absolute;
+  width: 20px;
+  height: 6px;
+  left: 635px;
+  top: 2829px;
+}
+
+.services {
+  position: absolute;
+  width: 69px;
+  height: 16px;
+  left: 165px;
+  top: 3019px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+.camping-activities {
+  position: absolute;
+  width: 733px;
+  height: 190px;
+  left: 165px;
+  top: 3062px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 95px;
+  text-align: left;
+
+  color: #000000;
+}
+
+.img1 {
+  position: absolute;
+  width: 733px;
+  height: 350px;
+  left: 165px;
+  top: 3302px;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(Image.png);
+  border-radius: 3px;
+}
+
+.img2 {
+  position: absolute;
+  width: 356px;
+  height: 350px;
+  left: 918px;
+  top: 3302px;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(Image.png);
+  border-radius: 3px;
+}
+
+.img3 {
+  position: absolute;
+  width: 356px;
+  height: 350px;
+  left: 165px;
+  top: 3672px;
+
+  border-radius: 3px;
+}
+
+.img4 {
+  position: absolute;
+  width: 356px;
+  height: 350px;
+  left: 541px;
+  top: 3672px;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url(Image.png);
+  border-radius: 3px;
+}
+
+.img5 {
+  position: absolute;
+  width: 356px;
+  height: 350px;
+  left: 918px;
+  top: 3672px;
+
+  border-radius: 3px;
+}
+
+.text-contry {
+  position: absolute;
+  width: 544px;
+  height: 70px;
+  left: 165px;
+  top: 4122px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 35px;
+
+  color: #000000;
+}
+
+.camping-locations-number {
+  position: absolute;
+  width: 129px;
+  height: 16px;
+  left: 165px;
+  top: 4287px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+.hotels-numder {
+  position: absolute;
+  width: 42px;
+  height: 16px;
+  left: 447px;
+  top: 4287px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+.activities-number {
+  position: absolute;
+  width: 62px;
+  height: 16px;
+  left: 730px;
+  top: 4287px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+.providers-number {
+  position: absolute;
+  width: 140px;
+  height: 16px;
+  left: 1012px;
+  top: 4287px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.rectangle-video {
+  position: absolute;
+  width: 1441px;
+  height: 700px;
+  top: 4495px;
+  left: 40px;
+}
+
+.fon {
+  position: absolute;
+  width: 1441px;
+  height: 518px;
+  left: 2.6%;
+  top: 5195px;
+
+  background: #f8f8f8;
+}
+
+.testimonials {
+  position: absolute;
+  width: 98px;
+  height: 16px;
+  left: 165px;
+  top: 5295px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #9b9b9b;
+}
+
+.customers {
+  position: absolute;
+  width: 357px;
+  height: 100px;
+  left: 165px;
+  top: 5358px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+.customers-color {
+  color: #ff5200;
+}
+
+.box-derekDunn {
+  position: absolute;
+  width: 357px;
+  height: 318px;
+  left: 541px;
+  top: 5295px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.135353);
+}
+.best-experience {
+  position: absolute;
+  width: 158px;
+  height: 20px;
+  left: 571px;
+  top: 5325px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #000000;
+}
+
+.best-box {
+  position: absolute;
+  width: 297px;
+  height: 133px;
+  left: 571px;
+  top: 5360px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #4a4a4a;
+}
+
+.img-derekDunn {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 571px;
+  top: 5533px;
+}
+
+.derek-dunn {
+  position: absolute;
+  width: 80px;
+  height: 19px;
+  left: 621px;
+  top: 5544px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #4a4a4a;
+}
+
+.box-nikSHell {
+  position: absolute;
+  width: 356px;
+  height: 318px;
+  left: 918px;
+  top: 5295px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.135353);
+}
+
+.fried-staff {
+  position: absolute;
+  width: 158px;
+  height: 20px;
+  left: 948px;
+  top: 5325px;
+
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #000000;
+}
+
+.text-nikShell {
+  position: absolute;
+  width: 297px;
+  height: 76px;
+  left: 948px;
+  top: 5360px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #4a4a4a;
+}
+
+.img-nikSHell {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 948px;
+  top: 5533px;
+}
+
+.nikSHell {
+  position: absolute;
+  width: 80px;
+  height: 19px;
+  left: 998px;
+  top: 5544px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #4a4a4a;
+}
+
+.contacs {
+  font-size: 15px;
+}
+.need-help {
+  position: absolute;
+  width: 140px;
+  height: 15px;
+  left: 165px;
+  top: 5817px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 15px;
+  font-weight: 900;
+
+  color: #000000;
+}
+
+.call-info {
+  position: absolute;
+  width: 179px;
+  height: 15px;
+  left: 165px;
+  font-size: 12px;
+  top: 5849px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 15px;
+
+  color: #4a4a4a;
+}
+
+.call-tel {
+  position: absolute;
+  width: 160px;
+  height: 19px;
+  left: 165px;
+  font-size: 12px;
+  top: 5876px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 15px;
+
+  color: #4a4a4a;
+}
+
+.call-tel-aling {
+  font-weight: 900;
+}
+
+.email-info {
+  position: absolute;
+  width: 180px;
+  height: 18px;
+  left: 165px;
+  top: 5898px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  font-size: 14px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.email-color {
+  color: blue;
+}
+
+.company {
+  position: absolute;
+  width: 61px;
+  height: 15px;
+  left: 353px;
+  top: 5817px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 15px;
+  font-weight: 900;
+
+  color: #000000;
+}
+
+.about-us-contacs {
+  position: absolute;
+  width: 60px;
+  height: 14px;
+  left: 353px;
+  top: 5849px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.careers {
+  position: absolute;
+  width: 49px;
+  height: 14px;
+  left: 353px;
+  top: 5873px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.terms-of-use {
+  position: absolute;
+  width: 78px;
+  height: 14px;
+  left: 353px;
+  top: 5897px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.privacy-statement {
+  position: absolute;
+  width: 110px;
+  height: 14px;
+  left: 353px;
+  top: 5921px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.give-feedback {
+  position: absolute;
+  width: 101px;
+  height: 14px;
+  left: 353px;
+  top: 5945px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.partner {
+  position: absolute;
+  width: 92px;
+  height: 14px;
+  left: 353px;
+  top: 5969px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.services-support {
+  position: absolute;
+  width: 109px;
+  height: 36px;
+  left: 541px;
+  top: 5813px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-weight: 900;
+  line-height: 18px;
+
+  color: #000000;
+}
+
+.rewards-programm {
+  position: absolute;
+  width: 104px;
+  height: 14px;
+  left: 541px;
+  top: 5869px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.partners {
+  position: absolute;
+  width: 52px;
+  height: 14px;
+  left: 541px;
+  top: 5893px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.legal {
+  position: absolute;
+  width: 31px;
+  height: 14px;
+  left: 541px;
+  top: 5917px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.privacy-policy {
+  position: absolute;
+  width: 83px;
+  height: 14px;
+  left: 541px;
+  top: 5941px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.customer-service-help {
+  position: absolute;
+  width: 134px;
+  height: 14px;
+  left: 540px;
+  top: 5965px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
+
+.quick-links {
+  position: absolute;
+  width: 80px;
+  height: 15px;
+  left: 730px;
+
+  top: 5817px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 15px;
+
+  color: #000000;
+}
+
+.your-account {
+  position: absolute;
+  width: 86px;
+  height: 15px;
+  left: 730px;
+  top: 5849px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+
+  color: #4a4a4a;
+}
+
+.camping-locat {
+  position: absolute;
+  width: 111px;
+  height: 14px;
+  left: 730px;
+  top: 5873px;
+
+  font-family: Sofadi One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #4a4a4a;
+}
